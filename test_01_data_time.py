@@ -2,7 +2,7 @@
 # -*- coding:utf-8 _*-
 """
 @author:zhengxin
-@file: data_time_001.py
+@file: test_01_data_time.py
 @time: 2022/5/7  10:40
 # @describe: PyQt6-日期和时间：QDate,QTime,QDateTime
 """
@@ -144,4 +144,4 @@ print('今天以及斯拉夫科夫和博罗季诺战役的儒略日', j_today, j
 
 day1 = j_today - j_slavkov
 day2 = j_today - j_slavkov
-print('距离两次大战的天数差', day1, day2)
+print('两次大战的天数差', day1, day2)

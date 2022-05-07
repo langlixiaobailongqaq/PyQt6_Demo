@@ -55,3 +55,39 @@
 
 ### 官方文档地址：
 * https://www.riverbankcomputing.com/static/Docs/PyQt6/
+
+
+## demo设计知识点：
+* PyQt6-日期和时间
+
+
+* PyQt6-第一个程序：
+  * PyQt6 简单示例
+  * PyQt6 tooltip
+  * PyQt6 退出按钮
+  * PyQt6 弹窗
+  * PyQt6 窗口居中
+  
+
+* PyQt6 的菜单和工具栏
+
+
+* PyQt6 的布局管理
+
+
+* PyQt6 的事件和信号
+
+
+* PyQt6 的对话框
+
+
+* PyQt6 组件
+
+
+* PyQt6 的拖拽操作
+
+
+* PyQt6 自定义部件
+
+
+* PyQt6-俄罗斯方块
