@@ -2,7 +2,7 @@
 # -*- coding:utf-8 _*-
 """
 @author:zhengxin
-@file: test_04_quit_button.py
+@file: test_03_quit_button.py
 @time: 2022/5/7  14:30
 # @describe: PyQt6-退出按钮：QPushButton
 """

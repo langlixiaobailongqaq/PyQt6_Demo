@@ -2,7 +2,7 @@
 # -*- coding:utf-8 _*-
 """
 @author:zhengxin
-@file: test_02_first_program.py
+@file: test_01_first_program.py
 @time: 2022/5/7  13:58
 # @describe: PyQt6 的第一个程序
 """

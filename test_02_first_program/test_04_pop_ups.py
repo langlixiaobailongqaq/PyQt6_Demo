@@ -2,7 +2,7 @@
 # -*- coding:utf-8 _*-
 """
 @author:zhengxin
-@file: test_05_pop_ups.py
+@file: test_04_pop_ups.py
 @time: 2022/5/7  15:35
 # @describe: PyQt6-弹窗
 """

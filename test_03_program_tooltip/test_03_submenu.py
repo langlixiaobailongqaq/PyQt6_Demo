@@ -2,9 +2,10 @@
 # -*- coding:utf-8 _*-
 """
 @author:zhengxin
-@file: test_09_submenu.py
+@file: test_03_submenu.py
 @time: 2022/5/7  17:49
-# @describe: PyQt6 子菜单
+# @describe: PyQt6 子菜单-
+    有两个菜单项，一个在 File 菜单里，一个在 File 的 Import 子菜单里
 """
 import sys
 from PyQt6.QtWidgets import QMainWindow, QMenu, QApplication

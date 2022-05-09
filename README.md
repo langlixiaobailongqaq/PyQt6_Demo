@@ -70,6 +70,13 @@
   
 
 * PyQt6 的菜单和工具栏
+  * PyQt6 状态栏
+  * PyQt6 简单菜单
+  * PyQt6 子菜单
+  * PyQt6 勾选菜单
+  * PyQt6 上下文菜单
+  * PyQt6 工具栏
+  * PyQt6 主窗口
 
 
 * PyQt6 的布局管理

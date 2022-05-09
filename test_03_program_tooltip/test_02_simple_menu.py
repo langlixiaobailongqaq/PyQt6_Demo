@@ -2,9 +2,10 @@
 # -*- coding:utf-8 _*-
 """
 @author:zhengxin
-@file: test_08_simple_menu.py
+@file: test_02_simple_menu.py
 @time: 2022/5/7  16:39
-# @describe:  PyQt6 简单菜单
+# @describe:  PyQt6 简单菜单-
+    创建了有一个菜单的菜单栏。这个菜单命令是终止应用，也绑定了快捷键 Ctrl+Q。示例中也创建了一个状态栏
 """
 
 import sys
@@ -26,7 +27,7 @@ class Example(QMainWindow):
         当我们将鼠标指针悬停在菜单项上时，状态栏中就会显示这个提示。
         :return:
         """
-        exitAct = QAction(QIcon('exit.png'), '&Exit', self)
+        exitAct = QAction(QIcon('../exit.png'), '&Exit', self)
         exitAct.setShortcut('Ctrl+Q')
         exitAct.setStatusTip('Exit application')
         # 当选择指定的行为时，触发了一个信号，这个信号连接了 QApplication 组件的退出操作，这会终止这个应用程序

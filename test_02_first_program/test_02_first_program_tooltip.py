@@ -2,7 +2,7 @@
 # -*- coding:utf-8 _*-
 """
 @author:zhengxin
-@file: test_03_first_program_tooltip.py
+@file: test_02_first_program_tooltip.py
 @time: 2022/5/7  14:10
 # @describe: PyQt6 tooltip-气泡提示
 """

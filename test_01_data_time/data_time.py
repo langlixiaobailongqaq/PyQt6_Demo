@@ -2,7 +2,7 @@
 # -*- coding:utf-8 _*-
 """
 @author:zhengxin
-@file: test_01_data_time.py
+@file: data_time.py
 @time: 2022/5/7  10:40
 # @describe: PyQt6-日期和时间：QDate,QTime,QDateTime
 """

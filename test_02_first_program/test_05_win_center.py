@@ -2,7 +2,7 @@
 # -*- coding:utf-8 _*-
 """
 @author:zhengxin
-@file: test_06_win_center.py
+@file: test_05_win_center.py
 @time: 2022/5/7  15:52
 # @describe: PyQt6-窗口居中
 """
