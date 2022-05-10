@@ -6,6 +6,7 @@
 @time: 2022/5/9  11:05
 # @describe: PyQt6 上下文菜单-
     重新实现 contextMenuEvent 方法，调出一个上下文菜单。
+    鼠标右击后，出现 New、Open、Quit
 
 """
 import sys

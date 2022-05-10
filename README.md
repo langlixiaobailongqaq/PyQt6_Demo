@@ -1,3 +1,13 @@
+## 介绍
+* 环境：mac + python3.8 + PyQt6
+
+### 安装：
+* pip install PyQt6
+
+### 官方文档地址：
+* https://www.riverbankcomputing.com/static/Docs/PyQt6/
+
+
 ## PYQt6 介绍
 * Qt 是一组跨平台的 C++ 库，它们实现了用于访问现代桌面和移动系统的许多方面的高级 API。其中包括定位和定位服务、多媒体、NFC 和蓝牙连接、基于 Chromium 的网络浏览器以及传统的 UI 开发。
 
@@ -49,15 +59,10 @@
   * QtSvg：提供了显示 SVG的类，可缩放矢量图形(SVG)是一种描述二维图像和图像应用的XML语言。
   * QtSql：提供了数据库的类。
   * QtTest：提供了可以对 PyQt6 应用进行单元测试的工具。
-
-### 安装：
-* pip install PyQt6
-
-### 官方文档地址：
-* https://www.riverbankcomputing.com/static/Docs/PyQt6/
+  
 
 
-## demo设计知识点：
+## demo涉及知识点：
 * PyQt6-日期和时间
 
 
@@ -80,6 +85,10 @@
 
 
 * PyQt6 的布局管理
+  * 绝对定位
+  * PyQt6 QHBoxLayout
+  * PyQt6 QGridLayout
+  * 示例：回复
 
 
 * PyQt6 的事件和信号
