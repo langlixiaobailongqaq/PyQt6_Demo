@@ -1,5 +1,5 @@
 ## 介绍
-* 环境：mac + python3.8 + PyQt6
+* 环境：mac + python3.8 + PyQt6-6.3.0
 
 ### 安装：
 * pip install PyQt6
@@ -92,6 +92,12 @@
 
 
 * PyQt6 的事件和信号
+  * PyQt6 中的事件
+  * PyQt6 信号和插槽
+  * PyQt6 重新实现事件处理器
+  * PyQt6 事件对象
+  * PyQt6 事件触发者
+  * PyQt6 触发信号
 
 
 * PyQt6 的对话框
