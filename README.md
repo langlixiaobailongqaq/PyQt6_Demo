@@ -101,6 +101,10 @@
 
 
 * PyQt6 的对话框
+  * PyQt6 QInputDialog
+  * PyQt6 QColorDialog
+  * PyQt6 QFontDialog
+  * PyQt6 QFileDialog
 
 
 * PyQt6 组件
