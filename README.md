@@ -108,6 +108,16 @@
 
 
 * PyQt6 组件
+  * PyQt6 QCheckBox
+  * PyQt6 切换按钮
+  * PyQt6 QSlider
+  * PyQt6 QProgressBar
+  * PyQt6 QCalendarWidget
+  * PyQt6 QPixmap
+  * PyQt6 QLineEdit
+  * PyQt6 QSplitter
+  * PyQt6 QComboBox
+
 
 
 * PyQt6 的拖拽操作
